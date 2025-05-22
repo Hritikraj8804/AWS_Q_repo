@@ -18,8 +18,8 @@ A simple Flask web application that displays random motivational quotes in Hingl
 
 1. Clone this repository:
    ```
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone https://github.com/Hritikraj8804/AWS_Q_repo.git
+   cd AWS_Q_repo
    ```
 
 2. Create and activate a virtual environment (recommended):
