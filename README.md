@@ -70,13 +70,9 @@ The application uses Flask to serve a web page that displays motivational quotes
 
 To add or modify quotes, edit the `quotes` list in `app.py`.
 
-## License
-
-[Add your license information here]
-
 ## Author
 
-[Your Name]
+Hritik Raj
 
 ## Acknowledgments
 
